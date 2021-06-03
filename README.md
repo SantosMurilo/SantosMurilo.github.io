@@ -1,2 +1,2 @@
-# http://SantosMurilo.github.io
+# SantosMurilo.github.io
 Meu Portifólioo
